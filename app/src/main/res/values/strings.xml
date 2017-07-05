@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Crime</string>
+    <string name="login">Нэвтрэх</string>
+    <string name="register">Бүртгүүлэх</string>
+    <string name="lname">Овог</string>
+    <string name="fname">Нэр</string>
+    <string name="age">Нас</string>
+    <string name="gender">Хүйс</string>
+    <string name="phone">Утас</string>
+    <string name="who">Хэн болох</string>
+    <string name="dad">Аав</string>
+    <string name="mom">Ээж</string>
+    <string name="ybro">Дүү</string>
+    <string name="bro">Ах</string>
+    <string name="sis">Эгч</string>
+    <string name="dugaar">Дугаар</string>
+    <string name="password">Нууц үг</string>
 </resources>
