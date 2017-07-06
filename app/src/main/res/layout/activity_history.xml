@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#303030"
     android:orientation="vertical"
-    tools:context="polite.crime.ui.view.MainActivity">
+    tools:context="polite.crime.ui.view.user.HistoryActivity">
 
     <LinearLayout
         android:id="@+id/crossfade_content"
@@ -15,21 +15,6 @@
         android:background="@drawable/bg_app_dark"
         android:orientation="vertical">
 
-        <FrameLayout
-            android:id="@+id/loading"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:clickable="true"
-            android:visibility="gone">
-
-            <ProgressBar
-                android:id="@+id/progressBar"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center" />
-
-        </FrameLayout>
-
         <android.support.v7.widget.RecyclerView
             android:id="@+id/recyclerView"
             android:layout_width="match_parent"
@@ -37,7 +22,7 @@
             android:divider="@android:color/background_light"
             android:paddingLeft="@dimen/dp10"
             app:layoutManager="LinearLayoutManager"
-            tools:listitem="@layout/item_contact_list" />
+            tools:listitem="@layout/item_emergencies" />
 
         <TextView
             android:id="@+id/emptyTv"

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="object_array">
+
+        <item>Аав</item>
+
+        <item>Ээж</item>
+
+        <item>Ах</item>
+
+        <item>Эгч</item>
+
+        <item>Дүү</item>
+    </string-array>
+</resources>

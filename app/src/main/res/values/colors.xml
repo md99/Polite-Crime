@@ -3,4 +3,116 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="mainbackground">#FFF</color>
+    <color name="loginColor">#f30d1a</color>
+    <color name="loginPressedColor">#aff30d1a</color>
+    <color name="lightBlue700">#0288D1</color>
+    <color name="lightblue">#0288D1</color>
+    <color name="backGround">#303030</color>
+    <color name="lightBlueA700">#0091EA</color>
+    <color name="blue">#2979FF</color>
+    <color name="blueGrey500">#607D8B</color>
+    <color name="tsohBlue">#add8e6</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="arilgah_click">#a8e74747</color>
+    <color name="arilgah">#e74747</color>
+    <color name="eren.survaljlah">#e74747</color>
+    <color name="haih_click">#a85fa220</color>
+    <color name="haih">#5fa220</color>
+    <color name="vg">#ffffff</color>
+    <color name="shadow_vg">#7f8387</color>
+    <color name="subbackground">#101421</color>
+    <color name="textField">#343c45</color>
+    <color name="theme_accent_1">#00b0ff</color>
+    <color name="app_body_text_2">#8a000000</color>
+    <color name="background_popup">#ffff</color>
+    <color name="disabled_color">#44000000</color>
+    <color name="error_color">#E7492E</color>
+    <color name="md_red_200">#62C62828</color>
+    <color name="md_blue_200">#621565C0</color>
+    <color name="shadow">#66000000</color>
+    <color name="md_green_200">#622E7D32</color>
+    <color name="md_yellow_200">#62F9A825</color>
+    <color name="md_grey_200">#62424242</color>
+    <color name="md_white_200">#62ffffff</color>
+    <color name="menu_theme">#b7b7b7</color>
+    <color name="onts_hund">#FF0000</color>
+    <color name="hund">#F07A7A</color>
+    <color name="hundevter">#FFADAD</color>
+
+
+    <color name="indigo">#3F51B5</color>
+    <color name="grey">#95A5A6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whiteT70">#B3FFFFFF</color>
+    <color name="blackT87">#DE000000</color>
+    <color name="blackT12">#1F000000</color>
+    <color name="grey100">#F5F5F5</color>
+    <color name="grey500">#9E9E9E</color>
+    <color name="grey800">#424242</color>
+    <color name="grey900">#212121</color>
+
+    <color name="tsohYellow">#ffff00</color>
+    <color name="tsohRed">#ffb6c1</color>
+    <color name="tsohGreen">#90ee90</color>
+
+    <color name="red500">#F44336</color>
+    <color name="redA100">#FF8A80</color>
+    <color name="redA200">#FF5252</color>
+    <color name="purpleA400">#D500F9</color>
+    <color name="indigoA700">#304FFE</color>
+    <color name="teal50">#E0F2F1</color>
+    <color name="teal100">#B2DFDB</color>
+    <color name="teal300">#4DB6AC</color>
+    <color name="teal400">#26A69A</color>
+    <color name="teal500">#009688</color>
+    <color name="teal600">#00897B</color>
+    <color name="teal900">#004D40</color>
+    <color name="greenA700">#00C853</color>
+    <color name="red">#FF3D00</color>
+    <color name="yellow">#ff8f00</color>
+    <color name="orange50">#FFF3E0</color>
+    <color name="orange100">#FFE0B2</color>
+    <color name="orange300">#FFB74D</color>
+    <color name="orange400">#FFA726</color>
+    <color name="brown400">#8D6E63</color>
+    <color name="brown800">#4E342E</color>
+    <color name="lightGreen700">#689F38</color>
+    <color name="yellow700">#FBC02D</color>
+    <color name="orange500">#FF9800</color>
+    <color name="brown500">#795548</color>
+
+    <!-- http://ethanschoonover.com/solarized -->
+    <color name="solarizedBase01">#586e75</color>
+    <color name="solarizedBase02">#073642</color>
+    <color name="solarizedBase03">#002b36</color>
+    <color name="solarizedOrange">#cb4b16</color>
+    <color name="solarizedBase1">#93a1a1</color>
+    <color name="solarizedBase2">#eee8d5</color>
+    <color name="solarizedBase3">#fdf6e3</color>
+
+    <color name="typeBlue">#65a2d9</color>
+    <color name="typeYellow">#ffc91b</color>
+    <color name="TypeGreen">#7ad768</color>
+    <color name="material_drawer_primary">#2196F3</color>
+    <color name="material_drawer_primary_dark">#1976D2</color>
+    <color name="material_drawer_primary_light">#BBDEFB</color>
+    <color name="material_drawer_accent">#FF4081</color>
+
+    <!-- OVERWRITE THESE COLORS FOR A LIGHT THEME -->
+    <!-- MaterialDrawer DEFAULT colors -->
+    <!-- MaterialDrawer DEFAULT DARK colors -->
+    <color name="material_drawer_dark_background">#202020</color>
+    <!-- MaterialDrawer DEFAULT DARK text / items colors -->
+    <color name="material_drawer_dark_primary_text">#DEFFFFFF</color>
+
+    <color name="material_drawer_dark_primary_icon">#8AFFFFFF</color>
+    <color name="material_drawer_dark_secondary_text">#8AFFFFFF</color>
+    <color name="material_drawer_dark_hint_text">#202020</color>
+    <color name="material_drawer_dark_divider">#202020</color>
+    <!-- MaterialDrawer DEFAULT DARK drawer colors -->
+    <color name="material_drawer_dark_selected">#202020</color>
+    <color name="material_drawer_dark_selected_text">@color/material_drawer_primary</color>
+    <color name="material_drawer_dark_header_selection_text">#FFF</color>
 </resources>

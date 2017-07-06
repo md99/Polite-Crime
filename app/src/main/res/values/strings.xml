@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Crime</string>
+    <string name="app_name">SoS</string>
     <string name="login">Нэвтрэх</string>
     <string name="register">Бүртгүүлэх</string>
     <string name="lname">Овог</string>
@@ -15,4 +15,13 @@
     <string name="sis">Эгч</string>
     <string name="dugaar">Дугаар</string>
     <string name="password">Нууц үг</string>
+    <string name="password2">Нууц үг давтах</string>
+    <string name="error.dugaar">Дугаараа оруулна уу</string>
+    <string name="error.lname">Овогоо оруулна уу</string>
+    <string name="error.fname">Нэрээ оруулна уу</string>
+    <string name="error.password">Нууц үгээ оруулна уу</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
